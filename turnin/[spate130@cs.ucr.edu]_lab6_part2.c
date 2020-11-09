@@ -1,7 +1,7 @@
 /*	Author: lab
  *  Partner(s) Name: 
- *	Lab Section:
- *	Assignment: Lab #7  Exercise #1
+ *	Lab Section: 023
+ *	Assignment: Lab #7  Exercise #2
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
