@@ -1,12 +1,12 @@
 /*	Author: lab
  *  Partner(s) Name: 
- *	Lab Section:
+ *	Lab Section: 023
  *	Assignment: Lab #7  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
  *
  *	I acknowledge all content contained herein, excluding template or example
  *	code, is my own original work.
- *	Demo Link: 
+ *	Demo Link: https://youtu.be/OQkp7Hcy3vY
  */
 #include <avr/io.h>
 #ifdef _SIMULATE_
